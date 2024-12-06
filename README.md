@@ -77,6 +77,70 @@ Cada projeto reflete meu compromisso com **velocidade, inovação e excelência 
 
 ---
 
+
+# 🧑‍💻 **Athena ITSM Copilot – Chatbot para Help Desk e Operações ITSM**  
+
+🚀 O **Athena ITSM Copilot** é um chatbot avançado, desenvolvido para otimizar operações de **Help Desk** e **IT Service Management (ITSM)**, oferecendo respostas em tempo real e insights baseados em dados.  
+
+---
+
+## ✨ **Principais Funcionalidades**  
+
+✅ **Análise de Planilhas Massivas:**  
+- O Athena é capaz de interpretar **planilhas com centenas ou até milhares de linhas**, processando dados rapidamente e fornecendo insights detalhados.  
+- 📝 **Exemplo real:**  
+    - Planilha de suporte com **2.134 registros**:  
+        - Total de chamados por categoria.  
+        - Média de tempo de resolução.  
+        - Percentual de SLA atendido.  
+    - Athena responde:  
+        - "A planilha possui 2.134 registros. Identifiquei 342 chamados na categoria *Infraestrutura*, com um tempo médio de resolução de 4h32min e 98% dos SLAs cumpridos."  
+
+✅ **Relatórios Dinâmicos:**  
+- Geração automática de relatórios baseados em perguntas.  
+- Visualize tendências como picos de chamados ou categorias com mais problemas.  
+
+✅ **Agilidade e Escalabilidade:**  
+- Processa dados em **segundos**, mesmo em operações de alta demanda.  
+
+---
+
+## 🛠️ **Casos de Uso**  
+
+1️⃣ **Operações de Help Desk:**  
+- Respostas automatizadas e análise de tickets para priorização.  
+
+2️⃣ **Gestão de Incidentes:**  
+- Insights sobre violações de SLA e gargalos operacionais.  
+
+3️⃣ **ITSM Avançado:**  
+- **Dashboards interativos** gerados com base em perguntas ao chatbot.  
+
+---
+
+## 📂 **Acesso e Testes**  
+
+🔒 Atualmente, o **Athena ITSM Copilot** está disponível em modo privado no Hugging Face:  
+[🔗 Athena ITSM Copilot – Teste Agora](https://huggingface.co/spaces/chaos4455/Athena_ITSM-Copilot)  
+
+💡 **Deseja acesso?** Solicite diretamente via meu [LinkedIn](https://www.linkedin.com/in/itilmgf/).  
+
+📷 **Prints de exemplo:**  
+> No lançamento, serão incluídos prints do chatbot respondendo perguntas como:  
+> - Quantidade de chamados por categoria.  
+> - Tendências em relatórios de suporte.  
+> - SLA médio e insights de performance.  
+
+---
+
+**Construindo o futuro do ITSM: Agilidade e Impacto em Operações Críticas.** 🚀  
+
+![chrome_ib57EH7zH9](https://github.com/user-attachments/assets/1e27f01b-517e-4977-9f06-cdfa3d25741c)
+![chrome_Z2378oRvKi](https://github.com/user-attachments/assets/eb867b44-69ba-4196-b037-10ac29819df7)
+![chrome_TcbtzWL8hS](https://github.com/user-attachments/assets/be4217d1-37ff-45ea-9b0d-6cc3fb7dedd4)
+![soffice bin_UDWW9gGAFu](https://github.com/user-attachments/assets/94bad051-f2f4-4379-aec2-5d6968f1ce2a)
+
+
 ## 🖥️ **Referência de Projetos em Streamlit**  
 
 📂 [**Streamlit IA Projects 2024**](https://github.com/chaos4455/Streamlit-IA-Projects-2024)  
