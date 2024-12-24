@@ -52,14 +52,14 @@
 ---
 
 🛡️ **Tecnologias**:  
-![Tech Stack](https://img.shields.io/badge/Tech-DevOps%20%7C%20Automation%20%7C%20CI/CD-brightgreen?style=flat&logo=github)
+![Tech Stack](https://img.shields.io/badge/Tech-Python%20%7C%20FastAPI%20%7C%20Streamlit%20%7C%20HuggingFace%20%7C%20Google%20Gemini%202.0-brightgreen?style=flat&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10-blue?style=flat&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95.1%20%7C%200.96-orange?style=flat&logo=fastapi&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-1.13-blue?style=flat&logo=streamlit&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers%20%7C%20Datasets-purple?style=flat&logo=huggingface&logoColor=white)  
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%202.0-Coming%20Soon%20%7C%20AI%20Solutions-red?style=flat&logo=google&logoColor=white)
 
 ---
-
-🔗 **Links Importantes**:  
-- [Repositório GitHub](https://github.com/seurepositorio)  
-- [Documentação do Projeto](https://seulinkdaprojeto.com)  
-- [Meta 2025](https://linkdometapara2025.com)
 
 ---
 
